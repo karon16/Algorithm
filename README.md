@@ -39,42 +39,12 @@ Welcome to our algorithm practice repository! This repository is dedicated to pr
 |   |   |   |-- algorithm1
 |   |   |   |   |-- kakao_algorithm1.cpp
 |   |   |   |   |-- README.md
-|-- utils
-|   |-- Makefile
-|   |-- README.md
-|-- README.md
-
-```
-
-Here's the updated project structure with the addition of a `utils` folder containing the `Makefile` and relevant information:
-
-```
-|-- Algorithm
-|   |-- algorithm
-|   |   |-- Algorithm1
-|   |   |   |-- algorithm1.cpp
-|   |   |   |-- README.md
-|   |   |-- Algorithm2
-|   |   |   |-- algorithm2.cpp
-|   |   |   |-- README.md
-|   |   |-- ...
-|   |-- interview_algorithm
-|   |   |-- google_interview
-|   |   |   |-- algorithm
-|   |   |   |   |-- google_algorithm1.cpp
-|   |   |   |   |-- google_algorithm2.cpp
-|   |   |   |   |-- README.md
-|   |   |-- kakao_corp_interview
-|   |   |   |-- algorithm
-|   |   |   |   |-- kakao_algorithm1.cpp
-|   |   |   |   |-- kakao_algorithm2.cpp
-|   |   |   |   |-- README.md
 |-- utilities
 |   |-- Makefile
 |   |-- README.md
 |-- README.md
-```
 
+```
 In the `utilitiews` folder, you'll find the `Makefile` along with a `README.md` providing instructions on how to use it and any other relevant information. Here's a simple template for the `Makefile`:
 
 ## Guidelines
