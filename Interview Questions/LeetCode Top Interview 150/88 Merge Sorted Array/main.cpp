@@ -17,7 +17,5 @@ int main(){
     Solution::merge(nums1, m, nums2, n);
     Solution::printSolution(nums1);
 
-
-
     return 0;
 }
